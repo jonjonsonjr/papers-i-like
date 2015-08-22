@@ -23,6 +23,7 @@
 - [Kademlia](http://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
 - [Chord](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 - [Erlang](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
+- [LISP](http://www-formal.stanford.edu/jmc/recursive.pdf)
 - [Computing Machinery and Intelligence](http://www.csee.umbc.edu/courses/471/papers/turing.pdf)
 - [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf)
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
