@@ -14,6 +14,7 @@
 - [The Datacenter as a Computer](http://www.morganclaypool.com/doi/pdf/10.2200/s00193ed1v01y200905cac006)
 - [Availability in Globally Distributed Storage Systems](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf)
 - [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+- [Haystack](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
 - [Paxos](http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf)
 - [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 - [Paxos Made Live](http://static.googleusercontent.com/media/research.google.com/en//archive/paxos_made_live.pdf)
