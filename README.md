@@ -19,6 +19,8 @@
 - [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 - [Paxos Made Live](http://static.googleusercontent.com/media/research.google.com/en//archive/paxos_made_live.pdf)
 - [Time, Clocks, and the Ordering of Events in a Distributed System](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf)
+	- [Paul Borrill on Lamport's Unfinished Revolution](https://www.youtube.com/watch?v=CWF3QnfihL4&t=2030)
+	- [The Quantum Conspiracy](https://www.youtube.com/watch?v=dEaecUuEqfc)
 - [The Byzantine Generals Problem](http://www.andrew.cmu.edu/course/15-749/READINGS/required/resilience/lamport82.pdf)
 - [Raft](http://ramcloud.stanford.edu/raft.pdf)
 - [REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf)
