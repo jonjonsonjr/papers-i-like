@@ -53,3 +53,7 @@ Also check out the [Papers We Love](https://github.com/papers-we-love/papers-we-
 	- [Blaze](https://www.youtube.com/watch?v=2qv3fcXW1mg)
 	- [Continuous Integration](https://www.youtube.com/watch?v=KH2_sB1A6lA)
 	- [Building Software Systems at Google and Lessons Learned - Jeff Dean](https://www.youtube.com/watch?v=modXC5IWTJI)
+- Declarative application management (Brian Grant)
+	- [Declarative application management in Kubernetes (doc)](https://github.com/kubernetes/community/blob/6f8597543b516d02dce5bb982eda1f041b2501ec/contributors/design-proposals/architecture/declarative-application-management.md)
+	- [Brian Grant - Felloe, Spokes, Axel and Tiller - Helm Summit 2018 (video)](https://www.youtube.com/watch?v=F-TlC8nIz8s)
+	- [Kustomize, with Phillip Wittrock (podcast)](https://play.google.com/music/m/D6jrmgdtzzmlxqhzfxnbprxcazq?t=Kustomize_with_Phillip_Wittrock-Kubernetes_Podcast_from_Google)
